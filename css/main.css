@@ -1,0 +1,63 @@
+body {
+	font-family: Kalimati, Verdana, sans-serif;
+	color: #666666;
+	font-size: medium;
+}
+h1{
+    font-size: 300%;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    padding: 0;
+}
+
+.title{
+    margin-top:45px;
+    margin-left:35px;
+}
+
+.row{
+	width: 100%;
+    padding:0;
+}
+.col-md-12, .col-md-5, .col-md-7{
+    padding:0;
+}
+
+.subtitle{
+	color: #F07C17;
+    font-size:150%;
+    font-weight:bold;
+}
+
+.subfigure{
+    margin-top:32px;
+	margin-left: 55px;
+	border: solid 1px #CCCCCC;
+	padding-top: 10px;
+    padding-left: 32px;
+	width: 375px;
+    height:223px;
+}
+
+.orange{
+    margin-top:16px;
+    margin-left: 55px;
+	width: 375px;
+    height: 375px;
+}
+
+.parag{
+	margin-left: 35px;
+    padding-right:25px;
+}
+.text{
+    margin-top: 32px;
+    line-height:200%;
+}
+.list{
+	padding-top: 22px;
+    line-height:196%;
+}
